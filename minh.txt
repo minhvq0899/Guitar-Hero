@@ -1,0 +1,44 @@
+/* *****************************************************************************
+ *  Name: Minh Quang Vu    
+ *  NetID:   
+ *  Precept: 
+ *
+ *  Partner Name:    
+ *  Partner NetID:   
+ *  Partner Precept: 
+ **************************************************************************** */
+
+Which partner is submitting the program files? Solo
+
+Programming Assignment 6: Guitar Hero
+
+Hours to complete assignment (optional): 6
+
+
+
+/**********************************************************************
+ *  Did you receive help from classmates, past COS 126 students, or
+ *  anyone else? If so, please list their names.  ("A Sunday lab TA"
+ *  or "Office hours on Thursday" is ok if you don't know their name.)
+ **********************************************************************/
+
+Yes or no? Yes TA
+
+
+
+/**********************************************************************
+ *  Did you encounter any serious problems? If so, please describe.
+ **********************************************************************/
+
+Yes or no? 
+It did not take me a lot of time to write the code at the beginning but it didn't work for such a long time. I have tried to de-bug it, read every line of code but I could not find the mistake. My code, in my opinion, supposes to work cause I could not find any mistake but it did not so I must have missed some tiny errors along the way. 
+Additionally, I found out a small mistake in RingBuffer when I tried to debug GuitarHero but it was too late to cause I have already submitted RingBuffer
+
+
+
+/**********************************************************************
+ *  List any other comments here.                                     
+ **********************************************************************/
+
+
+
